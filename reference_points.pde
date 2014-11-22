@@ -1,0 +1,23 @@
+//Reference points for GPS
+float[] reference_points_lat = new float[num_nodes]; 
+float[] reference_points_lon = new float[num_nodes];
+float rlat = reference_points_lat[0] = 38.887667; 
+float rlon = reference_points_lon[0] = -78.165167; 
+float posey_gate_lat = reference_points_lat[1] = 38.890068; 
+float posey_gate_lon = reference_points_lon[1] = -78.153391; 
+float posey_gate_vhf_lat = reference_points_lat[2] = 38.890503; 
+float posey_gate_vhf_lon = reference_points_lon[2] = -78.152033; 
+float posey_trap_weather_lat = reference_points_lat[3] = 38.89135; 
+float posey_trap_weather_lon = reference_points_lon[3] = -78.14769; 
+float leech_rd_trap_lat = reference_points_lat[4] = 38.894618; 
+float leech_rd_trap_lon = reference_points_lon[4] = -78.149917; 
+float leech_house_trap_lat = reference_points_lat[5] = 38.89596; 
+float leech_house_trap_lon = reference_points_lon[5] = -78.15110; 
+float leech_house_fenced_lat = reference_points_lat[6] = 38.89753; 
+float leech_house_fenced_lon = reference_points_lon[6] = -78.15167; 
+float leech_house_vhf_lat = reference_points_lat[7] = 38.89728; 
+float leech_house_vhf_lon = reference_points_lon[7] = -78.15012; 
+float leech_posey_jcn_lat = reference_points_lat[8] = 38.89664; 
+float leech_posey_jcn_lon = reference_points_lon[8] = -78.14805; 
+float neon_lat = reference_points_lat[9] = 38.89288; 
+float neon_lon = reference_points_lon[9] = -78.137990;
